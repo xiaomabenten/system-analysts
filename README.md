@@ -3,19 +3,23 @@
 #### 介绍
 目前全网最全面的2024年 系统分析师 （软考高级）备考资源库。
 
-> 注意：获取更多在线视频资料和大文件无法上传GitHub，请关注公众号「**CTO说**」。关注后回复  『系统分析师』，免费领取2024年最新最全的系统分析师备考视频资料
+#### 重要通知
+>   **该项目从2020年免费维护至今，共计帮助三万多人考试。**
+> 
+>   **为了提供更优质的服务，我们决定从2024年3月10日起，将不再在公众号上免费分享资料。如果您需要最新的全套资料，[ 请点击获取最新全套资料 👈  ](https://91ke.cn/)。**  
+
+
+#### 软考最新题库（众网友推荐）
+
+ - **PC版免费刷题软件**
 >
-> ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
+> **https://ruankaodaren.com**
 
->  **配套免费PC版 软考刷题软件：** 
->  https://ruankaodaren.com
 
-> **24年最新题库、全部免费、无广告刷题小程序，欢迎微信扫码练习！！！**
+ - **24年最新题库、全部免费、无广告刷题小程序，欢迎微信扫码练习！！**
 >
-> ![软考达人](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/ruankao/share/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%B8%88-github.png?x-oss-process=image/resize,w_258,h_258,limit_0)
-
-
-
+>![软考达人](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/ruankao/share/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88-github.png?x-oss-process=image/resize,w_258,h_258,limit_0)
+>
 #### 目录结构
  - 1.视频（2024年5月+2003年5月+2022年5月）
  - 2.真题（2009-2023年真题及解析）
