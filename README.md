@@ -97,4 +97,4 @@
 关注后回复 「**系统分析师**」 ，领取CTO为你精心准备的超 1TB 免费 系统分析师 备考资源。
 
 
-![公众号二维码](https://cdn-static.uoko.com/qrcode.jpg)
+![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
