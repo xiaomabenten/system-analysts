@@ -6,5 +6,5 @@
 > ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
 
 ### 视频目录
-- 24年5月考试课程（更新完毕）
 - 24年11月考试课程（更新完毕）
+- 25年5月考试课程（持续更新中~ 3月16日）
